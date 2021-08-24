@@ -1,0 +1,8 @@
+.idea
+*.iml
+.vscode
+dist
+jest.config.js
+node_modules
+output
+scripts
