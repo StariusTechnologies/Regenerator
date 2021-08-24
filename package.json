@@ -1,7 +1,7 @@
 {
   "name": "regenerator",
   "version": "1.0.0",
-  "description": "A regexp generator.",
+  "description": "Generate regular expressions to capture words.",
   "main": "dist/index.js",
   "scripts": {
     "start": "node .",
