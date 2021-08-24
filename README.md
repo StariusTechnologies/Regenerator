@@ -13,6 +13,10 @@ git clone git@github.com:StariusTechnologies/Regenerator.git
 cd Regenerator
 npm i
 ```
+3. Build the project
+```bash
+npm run build
+```
 
 # Usage
 

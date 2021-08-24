@@ -5,8 +5,8 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "node .",
-    "compile": "tsc -b src",
-    "watch": "npm run compile -- -w",
+    "build": "tsc -b src",
+    "watch": "npm run build -- -w",
     "deploy": "scripts/deploy.sh",
     "test": "jest --no-watchman"
   },
